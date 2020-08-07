@@ -1,0 +1,40 @@
+,,,,
+,,,,
+Branch,PCET_NMIET_Talegaon,PCET_PCCOE_Nigdi,PCET_PCCOE&R _Ravet,Total_Result
+Civil_Engineering,,2,3,5
+Computer_Engineering,15,172,56,243
+E&TC _Engineering,9,127,26,162
+IT_Engineering,10,58,0,68
+Mechanical_Engineering,16,111,42,169
+Total_Result,50,470,127,647
+,,,,
+,,,,
+DOUBLE OFFERS,,,,
+COUNTA of Company select 2,College name,,,
+Branch,PCET_NMIET_Talegaon,PCET_PCCOE_Nigdi,PCET_PCCOE&R _Ravet,Total_Result
+Civil_Engineering,0,0,0,0
+Computer_Engineering,2,78,14,94
+E&TC_Engineering,0,18,6,24
+IT_Engineering,0,15,0,15
+Mechanical_Engineering,2,34,11,47
+Total_Result,4,145,31,180
+,,,,
+COUNTA of Company select 3,College name,,,
+Branch,PCET_NMIET_Talegaon,PCET_PCCOE_Nigdi,PCET_PCCOE&R _Ravet,Total_Result
+Civil_Engineering,,0,0,0
+Computer_Engineering,0,14,6,20
+E&TC_Engineering,0,0,2,2
+IT_Engineering,0,0,0,0
+Mechanical_Engineering,0,2,2,4
+Total_Result,0,16,10,26
+,,,,
+COUNTA of Company select 4,College name,,,
+Branch,PCET_NMIET_Talegaon,PCET_PCCOE_Nigdi,PCET_PCCOE&R _Ravet,Total_Result
+Civil_Engineering,,0,0,0
+Computer_Engineering,0,1,1,2
+E&TC_Engineering,0,0,0,0
+IT_Engineering,0,0,0,0
+Mechanical_Engineering,0,0,0,0
+Total_Result,0,1,1,2
+,,,,
+DOUBLE + TRIPLE + FOUR OFFERS,4,162,42,208
